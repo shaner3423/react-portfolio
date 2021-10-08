@@ -8,12 +8,12 @@ function Footer() {
             link: "https://github.com/shaner3423"
         },
         {
-            name: "",
-            link: ""
+            name: "fab fa-linkedin",
+            link: "https://github.com/shaner3423"
         },
         {
-            name: "",
-            link: ""
+            name: "fab fa-stack-overflow",
+            link: "https://github.com/shaner3423"
         }
     ]
 

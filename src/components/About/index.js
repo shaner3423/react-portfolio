@@ -1,7 +1,5 @@
-
-   
 import React, { useState } from 'react';
-import { capitalizeFirstLetter } from '../../utils/helpers';
+import { capitalizeFirstLetter } from '../../utils/helper';
 
 function About() {
     const [pages] = useState([

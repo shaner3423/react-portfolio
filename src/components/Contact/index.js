@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { capitalizeFirstLetter } from '../../utils/helpers';
-import { validateEmail } from '../../utils/helpers';
+import { capitalizeFirstLetter } from '../../utils/helper';
+import { validateEmail } from '../../utils/helper';
 
 function Contact() {
     const [pages] = useState([

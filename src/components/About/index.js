@@ -16,10 +16,10 @@ function About() {
                     <div className="col-lg-10 mx-auto">
                         <h1>{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr />
-                        <p className="text-faded mb-5">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                        <p className="text-faded mb-5">Aspiring front-end developer with robust experience in cyber security and cloud services.</p>
                        
-                        <p className="text-faded mb-5">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-                        {/* <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">Check Out My Work</a> */}
+                        <p className="text-faded mb-5">My experience in cybersecurity and full-stack web development has enabled me to see how things are, but what could be. These traditionally separate fields have become more interdependent and these experience has taught me to think creatively in solving challenging problems, while always being attentive to details and the cascade of events that can result from one decision. Collaboration, effective written and verbal communicaton, and critical thinking are invaluable skills that are the cornerstone of my education and abilities.</p>
+                        
                     </div>
                 </div>
             </div>

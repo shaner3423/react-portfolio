@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Project from "../Project";
-import { capitalizeFirstLetter } from '../../utils/helpers';
+import { capitalizeFirstLetter } from '../../utils/helper';
 
 function Portfolio() {
     const [pages] = useState([
@@ -11,23 +11,23 @@ function Portfolio() {
     const [currentPage] = useState(pages[0]);
     const [projects] = useState([
         {
-            name: 'git-cookin',
-            description: 'MySQL/Express/Handlebars/SASS',
-            link: "",
-            repo: ""
+            name: 'quizzam',
+            description: 'Interactive Full-Stack Project',
+            link: "https://quizam-project2.herokuapp.com/",
+            repo: "https://github.com/shaner3423/quizam/blob/main/README.md"
         },
         {
-            name: 'covid-traveling',
-            description: 'JQuery/API/Materialize',
-            link: "",
-            repo: ""
+            name: 'find-fresh',
+            description: 'Interactive Front-End Project',
+            link: "https://shaner3423.github.io/Find-nFresh/",
+            repo: "https://github.com/shaner3423/Find-nFresh"
         },
         {
-            name: 'run-buddy',
+            name: 'portfolio',
             description: 'HTML/CSS',
-            link: "",
-            repo: ""
-        },
+            link: "https://shaner3423.github.io/portfolio/",
+            repo: "https://github.com/shaner3423/portfolio"
+        }
        
     ]);
 

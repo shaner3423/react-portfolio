@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { capitalizeFirstLetter } from '../../utils/helper';
+import Pdf from "../../assets/S.Crisostomo-Resume.pdf"
 
 function Resume() {
     const [pages] = useState([
@@ -46,6 +47,11 @@ function Resume() {
                             <li>Amazon Web Services</li>
                             <li>Amazon Web Services Cloud Practitioner </li>
                         </ul>
+                        <br/>
+                        <br/>
+                        <p className="text-center">
+                           <a href={Pdf} className="text-faded white-link" download>Download my resume</a>
+                        </p>
                         
                     </div>
                 </div>

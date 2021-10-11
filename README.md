@@ -19,7 +19,7 @@ A portfolio site using React.js Single Page Application to showcase the projects
 
 
 ## Screenshots
-
+![Screen Shot 2021-10-10 at 11 40 06 PM](https://user-images.githubusercontent.com/54196239/136729994-bdc7f703-f1b5-490d-bd00-bd19135ad59b.png)
 
 
 ## Technologies Use

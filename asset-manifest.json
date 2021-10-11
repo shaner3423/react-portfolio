@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.cac9c458.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.04eb7858.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.04eb7858.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.6377d1c6.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.6377d1c6.js.map",
+    "static/js/2.f857bdfe.chunk.js": "/react-portfolio/static/js/2.f857bdfe.chunk.js",
+    "static/js/2.f857bdfe.chunk.js.map": "/react-portfolio/static/js/2.f857bdfe.chunk.js.map",
+    "static/js/3.4b6b120b.chunk.js": "/react-portfolio/static/js/3.4b6b120b.chunk.js",
+    "static/js/3.4b6b120b.chunk.js.map": "/react-portfolio/static/js/3.4b6b120b.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.cac9c458.chunk.css.map": "/react-portfolio/static/css/main.cac9c458.chunk.css.map",
+    "static/js/2.f857bdfe.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f857bdfe.chunk.js.LICENSE.txt",
+    "static/media/S.Crisostomo-Resume.653131ed.pdf": "/react-portfolio/static/media/S.Crisostomo-Resume.653131ed.pdf",
+    "static/media/index.css": "/react-portfolio/static/media/header1.45fa8b2f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6377d1c6.js",
+    "static/js/2.f857bdfe.chunk.js",
+    "static/css/main.cac9c458.chunk.css",
+    "static/js/main.04eb7858.chunk.js"
+  ]
+}

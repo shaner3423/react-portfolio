@@ -1,5 +1,5 @@
 import React from "react";
-import { removeHyphensAndCapitalize } from "../../utils/helpers";
+import { removeHyphensAndCapitalize } from "../../utils/helper";
 
 function Project({ project }) {
   const { name, repo, link, description } = project;
@@ -8,7 +8,8 @@ function Project({ project }) {
     <div className="col-lg-4 col-sm-6">
       <div className="portfolio-box" key={name}>
         <img
-          src={require(`../../assets/img/portfolio/${name}.jpg`)}
+        //need to fix link - currently not working.
+          // src={require(`../../assets/img/portfolio/portfolio.jpg`)}
           alt={removeHyphensAndCapitalize(name)}
           className="img-fluid"
         />

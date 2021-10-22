@@ -9,16 +9,16 @@ function Footer() {
         },
         {
             name: "fab fa-linkedin",
-            link: "https://github.com/shaner3423"
+            link: "https://www.linkedin.com/in/shane-crisostomo/"
         },
         {
             name: "fab fa-stack-overflow",
-            link: "https://github.com/shaner3423"
+            link: "https://stackoverflow.com/users/story/15880698"
         }
     ]
 
     return (
-        <section>
+        <section className="footer">
             <footer className="container">
                 <div className="row">
                     <div className="col-lg-8 mx-auto text-center">

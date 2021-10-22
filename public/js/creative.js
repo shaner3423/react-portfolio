@@ -1,3 +1,5 @@
+//All the functional code below was obtained from Sylvia Prabudy https://github.com/sylviaprabudy
+
 (function ($) {
     "use strict"; // Start of use strict
 

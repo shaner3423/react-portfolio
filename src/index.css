@@ -90,7 +90,7 @@ body {
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-  background-color: #fff;
+  background-color: #E0E0E0;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -127,7 +127,7 @@ body {
 #mainNav .navbar-nav > li.nav-link:focus.active:hover {
   background-color: transparent;
 }
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   #mainNav {
     border-color: transparent;
     background-color: #fff;
@@ -166,12 +166,12 @@ body {
   #mainNav.navbar-shrink .navbar-nav > li.nav-link:focus:hover {
     color: #f05f40;
   }
-}
+} */
 
 div.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("./assets/img/header.jpg");
+  background-image: url("./assets/img/header1.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -230,7 +230,7 @@ div.masthead p {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(240, 95, 64, 0.9);
+  background: rgba(155, 155, 155, 0.9);
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -323,6 +323,7 @@ div.masthead p {
 /* Footer */
 footer a {
   margin: 20pt;
+  color: black
 }
 
 footer i.fab {
